@@ -154,7 +154,7 @@ res.mes
 dat_agg <- read.csv("dat_agg.csv") 
 View(dat_agg)
 
-# Any studies with the same id label will be aggregated, assuming that the within study correlation is .50 (the defualt)
+# Any studies with the same id label will be aggregated, assuming that the within study correlation is .50 (the default)
 
 dat_agg_updated <- agg(id = id, r = r, n = n, data=dat_agg)
 View(dat_agg_updated) 
