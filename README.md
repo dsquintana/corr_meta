@@ -8,6 +8,6 @@ Meta-analysis synthesizes a body of research investigating a common research que
 
 # File descriptions
 
-1. "primer script" - The supplementary R script 
-2. "dat_bias" - A simulated “biased” dataset to demonstrate the trim and fill procedure. To follow the R script, this .csv file needs to be saved in the R working directory using the file name “dat_bias.csv”.
-3. "dat_mes" - A simulated dataset that aggregates the first 3 studies from the original dataset to demonstrate how to work with multiple effect sizes from a single study. To follow the R script, this .csv file needs to be saved in the R working directory using the file name “dat_mes.csv”.
+1. "script" - The supplementary R script. 
+2. "dat_bias.csv" - A simulated “biased” dataset to demonstrate the trim and fill procedure. To follow the R script, this .csv file needs to be saved in the R working directory using the file name “dat_bias.csv”.
+3. "dat_mes.csv" - A simulated dataset that aggregates the first 3 studies from the original dataset to demonstrate how to work with multiple effect sizes from a single study. To follow the R script, this .csv file needs to be saved in the R working directory using the file name “dat_mes.csv”.
