@@ -1,6 +1,8 @@
 # A nontechical primer for conducting a meta-analysis to synthesize correlational data
 
-A companion R script implementing the analysis described in Quintana (in review). 
+A companion R script implementing the analysis described in Quintana (2015). 
+
+Quintana DS (2015). From pre-registration to publication: a nontechnical primer for conducting a meta-analysis to synthesize correlational data. Front. Psychol. 6:1549. [doi: 10.3389/fpsyg.2015.01549](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01549/abstract)
 
 # Abstract
 
